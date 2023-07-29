@@ -1,0 +1,18 @@
+.imagename {
+    font-size: medium;
+    font-weight: bold;
+    color: brown;
+    text-align: center;
+}
+
+#topic {
+    font-size: 25px;
+    font-weight: bolder;
+    color: brown;
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.grid {
+    margin: 1rem 0;
+}
